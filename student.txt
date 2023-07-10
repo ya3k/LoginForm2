@@ -1,0 +1,14 @@
+QE170120|Truong Dinh Van|dq1111|truongdinhvan1233@gmail.com|0833597927|Male|qqq
+QE170002|Truong Quoc Thuan|1|ThuanTQQE170002@fpt.edu.vn|1|Male|Q
+QE170003|Nguyen Tan Kiet|1|KietNTQE170003@fpt.edu.vn|1|Male|Dia CHi
+QE170012|Le Thi Chi Thuong|1|ThuongLTCQE170012@fpt.edu.vn|1|Female|Q
+QE170014|Cap Thanh Dat|1|DatCTQE170014@fpt.edu.vn|1|Male|Q
+QE170084|Pham Manh Cuong|1|CuongPMQE170084@fpt.edu.vn|1|Male|1
+QE170086|Bui Ngoc Bao Tran|1|TranBNBQE170086@fpt.edu.vn|1|Female|1
+QE170092|Phan Mai Son|1|SonPMQE170092@fpt.edu.vn|1|Male|1
+QE170096|Ha Ngoc Nghia|1|NghiaHNQE170096@fpt.edu.vn|1|Male|1
+QE170108|Ngo Ho Thanh Tuan|1|TuanNHTQE170108@fpt.edu.vn|1|Male|1
+QE170113|Ngo Gia Huy|1|HuyNGQE170113@fpt.edu.vn|1|Male|1
+QE170115|Tran Thu Ngu|1|NganTTQE170115@fpt.edu.vn|1|Female|1
+QE170124|Le Trung Kien|1|KienLTQE170124@fpt.edu.vn|1|Male|1
+SE161892|Le Minh Hieu|1|HieulmSE161892@fpt.edu.vn|1|Male|1

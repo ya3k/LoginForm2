@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        html{
+            background-color: burlywood ;
+         
+
+        }
+        table {
+           display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+
+        }
+
+        .login-header {
+            margin-bottom: 30px;
+            font-weight: bolder;
+            font-size: 50px;
+            align-items: center;
+
+
+        }
+
+        .form-input {
+            height: 30px;
+            width: 300px;
+            margin-bottom: 20px;
+            font-size: 19px;
+        }
+
+        .login-button {
+            background-color: #aa040c;
+            font-size: 18px;
+            color: white;
+            padding: 10px 15px;
+           margin-top: 10px;
+            border: none;
+            
+            width: 100%;
+        }
+    
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <form action="login" method="POST">
+            <table >
+                <tr>
+                    <td class="login-header">LOGIN</td>
+                </tr>
+                <tr>
+                    <td><input class="form-input" type="text" placeholder="Username" name="username" /></td>
+                </tr>
+                <tr>
+                    <td><input class="form-input" type="password" placeholder="Password" name="password" /></td>
+                </tr>
+                <tr>
+                    <td><input class="login-button" type="submit" value="Login" /></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+
+</body>
+
+</html>
